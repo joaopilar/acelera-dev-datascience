@@ -10,18 +10,17 @@
 
 The directories are course modules, folowing this order:
 
-- [Week 0 - Introduction](./00-week_Introduction_optional)
-- [Week 1](./01-week)
-- [Week 2](./02-week)
-- [Week 3](./03-week)
-- [Week 4](./04-week)
-- [Week 5](./05-week)
-- [Week 6](./06-week)
-- [Week 7](./07-week)
-- [Week 8](./08-week)
-- [Week 9](./09-week)
-- [Week 10](./10-week)
-- [Final project](./Final_Project)
-- [Complementary Material](./Complementary_Material)
+- [Module 0: Optional](./module_0_optional)
+- [Module 1: Introduction to Data Science](./module_1)
+- [Module 2: Preprocessing data in python](./module_2)
+- [Module 3: Exploratory data analysis (EDA) - Part 1/2](./module_3)
+- [Module 4: Exploratory data analysis (EDA) - Part 2/2](./module_4)
+- [Module 5: Statistical thinking in Python - Part 2/2](./module_5)
+- [Module 6: Statistical thinking in Python - Part 1/2](./module_6)
+- [Module 7: Features engineering](./module_7)
+- [Module 8: Regression](./module_8)
+- [Module 9: Classification](./module_9)
+- [Final Project](./final-project)
+- [Complementary Material](./complementary)
 
 Each session have more details about contents and activities that was presented and developed. It contains the projects and some notebooks with tutorials and tasks made.
