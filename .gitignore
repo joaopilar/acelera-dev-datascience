@@ -1,2 +1,10 @@
 final-project/workspace/
 challenge/workspace
+
+**.ipynb_checkpoints/
+**.egg-info
+**logs/
+**mypy_cache/
+**.parquet
+**.csv
+**_SUCCESS
