@@ -5,6 +5,7 @@ challenge/workspace
 **.egg-info
 **logs/
 **mypy_cache/
+**pytes_cache/
 **.parquet
 **.csv
 **_SUCCESS
