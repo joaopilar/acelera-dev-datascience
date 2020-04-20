@@ -8,3 +8,4 @@ challenge/workspace
 **.parquet
 **.csv
 **_SUCCESS
+**__pycache__/
