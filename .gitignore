@@ -1,12 +1,20 @@
-final-project/workspace/
-challenge/workspace
-
-**.ipynb_checkpoints/
+# Cache
 **.egg-info
 **logs/
-**mypy_cache/
-**pytes_cache/
-**.parquet
-**.csv
-**_SUCCESS
+**.ipynb_checkpoints/
 **__pycache__/
+**mypy_cache/
+**pytest_cache/
+
+**_SUCCESS
+
+# VirtualEnv
+**_env/
+
+# Data
+**workspace/
+
+# Output
+**output.xml
+**stdout.txt
+**submission.json
